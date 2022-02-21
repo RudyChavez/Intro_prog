@@ -32,4 +32,5 @@ int main(){
     printf("hola clase, country = %s\n", country);
     printf("hola clase, aName = %s\n", aName);
     return 0;
+    
 }
